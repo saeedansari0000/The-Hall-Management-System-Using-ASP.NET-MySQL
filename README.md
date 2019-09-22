@@ -1,0 +1,2 @@
+# The-Hall-Management-System-Using-ASP.NET-MySQL
+To Manage the Details of the Hall about Customers, Booking Dates, Payment and Inventory in a Digitized Way with a Customer Satisfaction .The System is totally built at Administrative End and thus only Administrator is guaranteed the Access. The purpose is to build an Application Program to Reduce the Manual Work for Managing the Hall, Developing User Friendly and Easy to use Software with possible advance technologies.
